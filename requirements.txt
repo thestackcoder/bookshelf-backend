@@ -60,7 +60,6 @@ jmespath==0.9.4
 mailjet-rest==1.3.4
 MarkupPy==1.14
 MarkupSafe==1.1.1
-mysqlclient==2.0.3
 numpy==1.20.3
 oauthlib==3.1.1
 odfpy==1.4.1
