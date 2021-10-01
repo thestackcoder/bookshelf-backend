@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 python3 manage.py migrate
 
-python3 manage.py runderver
+python3 manage.py runserver
